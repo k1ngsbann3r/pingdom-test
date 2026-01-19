@@ -1,2 +1,0 @@
-# pingdom-test
-pingdom-test
